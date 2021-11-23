@@ -1,0 +1,1 @@
+curl -d client_id=692645960468-jlar8046hrn371ave1qu9gjv8m0j8sli.apps.googleusercontent.com -d client_secret=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 -d device_code=AH-1Ng0c1LNysVyFV4Bip0BvE6ZRuR8fzrtZEn3TUXEeKO_ngWXwMqTgJxa_PgihK-B6TC4RYw2eGSJOlCY-pTKDrKbKyiBebA -d grant_type=urn%3Aietf%3Aparams%3Aoauth%3Agrant-type%3Adevice_code https://accounts.google.com/o/oauth2/token
